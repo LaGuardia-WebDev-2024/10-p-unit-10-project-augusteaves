@@ -1,11 +1,12 @@
 body {
-  background-color: black;
+/*   background-color: black; */
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 
   margin-top: 10%;
   font-family: Georgia, serif;
+  
 }
 
 html{
@@ -20,10 +21,10 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: rgb(244, 195, 232);
   justify-content: space-around;
   align-items: flex-start;
-  padding-bottom: 20px;
+  padding-bottom: 50px;
 }
 
 .pic{
@@ -34,7 +35,7 @@ html{
 }
 
 h2{
-  color: black;
+  color: rgb(229, 0, 170);
 }
 
 #start{
@@ -42,5 +43,9 @@ h2{
 }
 
 #end{
-  text-align: right;
+  text-align: right ;
 }
+
+
+
+  
